@@ -1,0 +1,23 @@
+Generalización simbólica (Reglas escritas del lenguaje):
+
+Las expresiones formales y reglas sintácticas incluyen la declaración explícita de tipos de datos primitivos (string, number, boolean), la tipificación de parámetros y retornos en funciones, y el uso estricto de estructuras de control secuenciales, condicionales (if/else, switch) e iterativas (for, while).
+
+Se restringe el uso de características orientadas a objetos complejos (como clases, herencia o interfaces avanzadas de POO), limitando el código a funciones puras, tipos personalizados (type) y bloques estructurados.
+
+Creencias de los profesionales (Compromisos y modelos compartidos):
+
+Existe la creencia compartida de que incorporar tipado estático (incluso en un entorno estructurado) aporta una ventaja decisiva frente a JavaScript tradicional, ya que previene errores comunes de asignación y tipos en tiempo de compilación.
+
+Se cree que mantener el código bajo la programación estructurada evita la sobreingeniería de la orientación a objetos, permitiendo que los algoritmos conserven un flujo lineal, transparente y fácil de auditar.
+
+Valores:
+
+Robustez y predictibilidad: Reducir los fallos imprevistos mediante la validación previa de tipos.
+
+Claridad y legibilidad: Priorizar que el código se lea de manera secuencial y modular, facilitando el mantenimiento y la depuración.
+
+Eficiencia lógica: Control riguroso del flujo de ejecución mediante subrutinas y funciones desacopladas.
+
+Ejemplares (Exemplars / Problemas prototípicos):
+
+Soluciones de referencia compartidas por la comunidad de aprendizaje, tales como calculadoras modulares basadas en funciones de entrada/salida (como tu script de calculadora), sistemas de gestión de listas mediante arreglos, y algoritmos de procesamiento de datos lineales.
